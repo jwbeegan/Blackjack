@@ -1,0 +1,1 @@
+This repo contains the .cs script files from my blackjack project, which can be played here: https://jbeegan.itch.io/blackjack. I have only included the main logic files for simplicity. This repo is not meant to be a true backup of my project, but rather an example of my work. 
